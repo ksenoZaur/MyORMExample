@@ -1,0 +1,11 @@
+D:\RiderProjects\Lessons\MyORM\MyORM\bin\Debug\netcoreapp2.2\MyORM.deps.json
+D:\RiderProjects\Lessons\MyORM\MyORM\bin\Debug\netcoreapp2.2\MyORM.runtimeconfig.json
+D:\RiderProjects\Lessons\MyORM\MyORM\bin\Debug\netcoreapp2.2\MyORM.runtimeconfig.dev.json
+D:\RiderProjects\Lessons\MyORM\MyORM\bin\Debug\netcoreapp2.2\MyORM.dll
+D:\RiderProjects\Lessons\MyORM\MyORM\bin\Debug\netcoreapp2.2\MyORM.pdb
+D:\RiderProjects\Lessons\MyORM\MyORM\obj\Debug\netcoreapp2.2\MyORM.csprojAssemblyReference.cache
+D:\RiderProjects\Lessons\MyORM\MyORM\obj\Debug\netcoreapp2.2\MyORM.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Lessons\MyORM\MyORM\obj\Debug\netcoreapp2.2\MyORM.AssemblyInfoInputs.cache
+D:\RiderProjects\Lessons\MyORM\MyORM\obj\Debug\netcoreapp2.2\MyORM.AssemblyInfo.cs
+D:\RiderProjects\Lessons\MyORM\MyORM\obj\Debug\netcoreapp2.2\MyORM.dll
+D:\RiderProjects\Lessons\MyORM\MyORM\obj\Debug\netcoreapp2.2\MyORM.pdb

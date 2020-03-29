@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rules>
+    <Table Name="Books" TargetClass="SomeBook" >
+        <Rule FieldName="SomeAuthor"    ColumnName="Author"/>
+        <Rule FieldName="SomeTitle"     ColumnName="Title"/>
+        <Rule FieldName="SomePrice"     ColumnName="Price"/>
+    </Table>
+</Rules>
